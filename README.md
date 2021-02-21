@@ -1,4 +1,4 @@
- ### Hi there 👋
+ ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width:100%;"> <!--👋-->
 
 <!--
 **Vedant-02/Vedant-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
