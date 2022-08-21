@@ -1,6 +1,8 @@
 [![MasterHead](animation/cityscape.gif)](https://github.com/Vedant-02)
-<h1 align="center">Hi 👋, I'm Vedant A Sontake</h1>
-<h3 align="center">Junior at Indian Institute of Technology, Jodhpur</h3>
+<h1 align="center">Hi <!--👋--><img alt="wave" width="40" src="animation/wave.gif">, I'm Vedant A Sontake</h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Junior+at+IIT+Jodhpur"></a>
+</p>
 <img align="right" alt="Coding" width="300" src="animation/coding_gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant-02&label=Profile%20views&color=0e75b6&style=flat" alt="vedant-02" /> </p>
 
