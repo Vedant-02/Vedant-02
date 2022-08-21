@@ -8,7 +8,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/vedantsontake" target="blank"><img src="https://img.shields.io/twitter/follow/vedantsontake?logo=twitter&style=for-the-badge" alt="vedantsontake" /></a> </p> -->
 
-<h3 align="left">About me:</h3>
+<h3 align="left"><img src="animation/Developer.gif" width="4%">About me:</h3>
 <ul>
 <li>I'm a pre-final year student, pursuing my B.Tech. in Electrical Engineering at IIT Jodhpur</li>
 <li>I'm proficient in multiple programming languages like C++, Python</li>
