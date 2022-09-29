@@ -45,7 +45,7 @@
 </ul>
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> Github Stats:</h3>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-02&show_icons=true&locale=en" alt="vedant-02" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-02&count_private=true&show_icons=true&locale=en" alt="vedant-02" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-02&count_private=true&show_icons=true&locale=en&layout=compact" alt="vedant-02" /></p>
 
