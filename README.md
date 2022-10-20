@@ -15,7 +15,7 @@
 <li>I'm skilled in Data structures and Algorithms, Pattern Recognition and Machine Learning and Front-end web development</li>
 <li>I'm currently learning about Back-end web development, Web3 and DApps</li>
 </ul>
-<h3 align="left"><img src="animation/handshake-joypixels.gif" width="3%">Connect with me:</h3>
+<h3 align="left"><img src="animation/handshake-joypixels.gif" width="3%">Let's connect:</h3>
 
 <p align="left">
 <a href="https://twitter.com/vedantsontake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantsontake" height="30" width="40" /></a>
