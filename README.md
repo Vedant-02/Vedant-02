@@ -45,11 +45,22 @@
 </ul>
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> Github Stats</h3>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-02&count_private=true&show_icons=true&locale=en&theme=great-gatsby" alt="vedant-02" /></p>
+<table>
+<tbody>
+<tr>
+    <td><p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-02&count_private=true&show_icons=true&locale=en&theme=great-gatsby" alt="vedant-02" /></p></td>
+    <td><p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-02&count_private=true&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="vedant-02" /></p></td>
+  </tr>
+  <tr>
+    <td colspan="2"><p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-02&count_private=true&theme=great-gatsby" alt="vedant-02" /></p></td>
+  </tr>
+</tbody>
+</table>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-02&count_private=true&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="vedant-02" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-02&count_private=true&theme=great-gatsby" alt="vedant-02" /></p>
+
+
+
 <h3 align="left"><img src="animation/Hacktoberfest-2022.jpg" width="2%"> Hacktoberfest 2022</h3>
 
 [![@vedant02's Holopin board](https://holopin.me/vedant02)](https://holopin.io/@vedant02)
