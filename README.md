@@ -50,7 +50,7 @@
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-02&count_private=true&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="vedant-02" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-02&count_private=true&theme=great-gatsby" alt="vedant-02" /></p>
-<h3>Hacktoberfest 2022</h3>
+<h3 align="left"><img src="animation/Hacktoberfest-2022.jpg" width="2%"> Hacktoberfest 2022</h3>
 
 [![@vedant02's Holopin board](https://holopin.me/vedant02)](https://holopin.io/@vedant02)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant-02" alt="vedant-02" /></a> </p> -->
