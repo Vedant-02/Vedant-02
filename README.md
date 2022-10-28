@@ -8,16 +8,16 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/vedantsontake" target="blank"><img src="https://img.shields.io/twitter/follow/vedantsontake?logo=twitter&style=for-the-badge" alt="vedantsontake" /></a> </p> -->
 
-<h3 align="left"><img src="animation/Developer.gif" width="4%">About me:</h3>
+<h3 align="left"><img src="animation/Developer.gif" width="4%">About me</h3>
 <ul>
 <li>I'm a pre-final year student, pursuing my B.Tech. in Electrical Engineering at IIT Jodhpur</li>
 <li>I'm proficient in multiple programming languages like C++, Python</li>
 <li>I'm skilled in Data structures and Algorithms, Pattern Recognition and Machine Learning and Front-end web development</li>
 <li>I'm currently learning about Back-end web development, Web3 and DApps</li>
 </ul>
-<h3 align="left"><img src="animation/handshake-joypixels.gif" width="3%">Let's connect:</h3>
+<h3 align="left"><img src="animation/handshake-joypixels.gif" width="3%">Let's connect</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/vedantsontake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantsontake" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vedant-a-sontake-011922206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-a-sontake" height="30" width="40" /></a>
 <a href="https://instagram.com/vedant_sontake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedant_sontake" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 <a href="https://auth.geeksforgeeks.org/user/vedant_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vedant_02" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left"><img src="animation/tools.gif" width="3%"> Languages and Tools:</h3>
+<h3 align="left"><img src="animation/tools.gif" width="3%"> Languages and Tools</h3>
 <ul>
 <li>Programming Languages:</li>
 <p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://verilogguide.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_verilog.svg" alt="verilog" width="40" height="40"/> </a> </p>
@@ -44,11 +44,13 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 </ul>
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> Github Stats:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="3%"> Github Stats</h3>
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedant-02&count_private=true&show_icons=true&locale=en&theme=great-gatsby" alt="vedant-02" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant-02&count_private=true&show_icons=true&locale=en&layout=compact&theme=great-gatsby" alt="vedant-02" /></p>
 
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-02&count_private=true&theme=great-gatsby" alt="vedant-02" /></p>
+<h3>Hacktoberfest 2022</h3>
 
+[![@vedant02's Holopin board](https://holopin.me/vedant02)](https://holopin.io/@vedant02)
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant-02" alt="vedant-02" /></a> </p> -->
