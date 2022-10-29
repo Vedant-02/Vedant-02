@@ -1,5 +1,5 @@
 [![MasterHead](animation/cityscape.gif)](https://github.com/Vedant-02)
-<h1 align="center">Hi <!--👋--><img alt="wave" width="40" src="animation/wave.gif">, I'm Vedant A Sontake</h1>
+<h1 align="center">Hi <!--👋--><img alt="wave" width="40" src="animation/wave.gif">, I'm Vedant Anant Sontake</h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Junior+at+IIT+Jodhpur"></a>
 </p>
